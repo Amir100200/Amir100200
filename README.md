@@ -1,3 +1,6 @@
+# 💫 About Me:
+As a senior developer and proud member of the Turing research group, I bring expertise in Next.js, JavaScript, Node.js, Python, C#, and C++. I have a strong foundation in building dynamic, user-centric web applications and robust back-end infrastructures. My career is driven by a commitment to continuous learning and delivering excellence, whether developing new products or mentoring junior developers.
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/663422540605292554) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amir__102000) 
